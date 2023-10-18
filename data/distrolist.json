@@ -1,0 +1,25 @@
+{
+    "Distros": {
+        "1": {
+            "DisplayName": "Arch Linux",
+            "fileName": "arch",
+            "hasTorrent": true,
+            "imageURL": "https://mirror.arizona.edu/archlinux/iso/2023.10.14/archlinux-2023.10.14-x86_64.iso",
+            "torrentURL": "https://mirror.arizona.edu/archlinux/iso/2023.10.14/archlinux-2023.10.14-x86_64.iso.torrent"
+        },
+        "2": {
+            "DisplayName": "Debian Linux",
+            "fileName": "debian",
+            "hasTorrent": true,
+            "imageURL": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.2.0-amd64-netinst.iso",
+            "torrentURL": "https://cdimage.debian.org/debian-cd/current/amd64/bt-cd/debian-12.2.0-amd64-netinst.iso.torrent"
+        },
+        "3": {
+            "DisplayName": "Ubuntu",
+            "fileName": "ubuntu",
+            "hasTorrent": true,
+            "imageURL": "https://releases.ubuntu.com/23.10/ubuntu-23.10.1-desktop-amd64.iso",
+            "torrentURL": "https://releases.ubuntu.com/23.10/ubuntu-23.10.1-desktop-amd64.iso.torrent"
+        }
+    }
+}
